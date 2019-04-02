@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061866287762",
+    "firebase_url": "https://mystoremanager-cb92a.firebaseio.com",
+    "project_id": "mystoremanager-cb92a",
+    "storage_bucket": "mystoremanager-cb92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061866287762:android:66cb3d2ec88c9b3e",
+        "android_client_info": {
+          "package_name": "ie.dcu.computing.student.lenehan4.mystoremanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061866287762-8tp1uco0alqt4s2o7k0agmp24j04hb58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbSn18B0BXlgnAbfI2YhsTcCuNo6dPt4A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
